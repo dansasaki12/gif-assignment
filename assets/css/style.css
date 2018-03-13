@@ -1,0 +1,33 @@
+.jumbotron {
+    background-color: #10150E;
+    color: white;
+}
+
+.footer{
+    
+    right: 0;
+    bottom: 0;
+    left: 0;
+    padding: 1rem;
+    text-align: center;
+}
+
+button{
+    margin: 20px;
+}
+
+form{
+    float: right;
+    position: relative;
+}
+
+#gifButtonsView{
+    float: left;
+}
+
+#gifsView{
+    
+    display: inline-block;
+    clear: both;
+   
+}
