@@ -26,8 +26,14 @@ form{
 }
 
 #gifsView{
+    text-align: center;
+   
+}
+
+.newDiv{
     
     display: inline-block;
     clear: both;
+    margin: 10px;
    
 }

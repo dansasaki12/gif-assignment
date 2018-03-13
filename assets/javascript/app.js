@@ -45,7 +45,7 @@ $(document).ready(function() {
             var results = response.data;
 
             for (var i = 0; i<results.length; i++){
-                var gifDiv = $("<div>");
+                var gifDiv = $("<div class='newDiv'>");
                 var gifRating = $("<p>").text("Rating " + results[i].rating);
                 gifDiv.append(gifRating);
     
